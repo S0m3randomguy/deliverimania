@@ -1,5 +1,5 @@
 {
-    "name": "DeliverimaniaJS",
+    "name": "Deliverimania",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -7,7 +7,9 @@
     "files": [
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +22,23 @@
         "arcade"
     ],
     "preferredEditor": "tsprj",
-    "languageRestriction": "javascript-only"
+    "languageRestriction": "javascript-only",
+    "palette": [
+        "#000000",
+        "#E3E8E6",
+        "#CC391E",
+        "#CE64A2",
+        "#DF572A",
+        "#F1B40E",
+        "#24A379",
+        "#70AF3C",
+        "#0653B7",
+        "#7FE1C8",
+        "#AF45E8",
+        "#7C7693",
+        "#604860",
+        "#AEB6BC",
+        "#832E25",
+        "#291E21"
+    ]
 }
