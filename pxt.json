@@ -1,5 +1,5 @@
 {
-    "name": "Deliverimania",
+    "name": "Deliverimania!",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -9,7 +9,12 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "game.ts",
+        "setup.ts",
+        "skins.ts",
+        "languages.ts",
+        "localization.ts"
     ],
     "testFiles": [
         "test.ts"

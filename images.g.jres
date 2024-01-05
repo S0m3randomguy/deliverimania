@@ -119,11 +119,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "SkinBee"
     },
-    "image27": {
-        "data": "hwQSAA4AAAAgIoGNISEAACIiGIghIQAAEhGBjSEBAAASERiIIQAAABIRgY0hAAAAEhEYiCEBAAASEbIr8SEAABIRsivxIQAAEhGyKyEhAAAiEcIrISEAAMLMvCwhIQAAIMzMKyEBAAAAEhEhIgAAAAASESEiAAAAABIRISIBAAAAEhEiIiEBAAAgIiItIQEAANAiIt0hAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "SkinUSAFlag"
-    },
     "image28": {
         "data": "hwQSAA4AAACAiCIiIiIAAIiIIiIiIgAAmJkiIiICAACYmURERAAAAJiZREREAAAAmJlEREQEAACYmbWLRVUAAJiZtYtFVQAAmJm1i1VVAACImceLd3cAAMjMvIx3dwAAgMzMe3cHAAAAmJmJiAAAAACYmYmIAAAAAJiZiYgIAAAAmJmIqKoKAACAiIiNqgoAANCIiN2qAAA=",
         "mimeType": "image/x-mkcd-f4",
@@ -178,11 +173,6 @@
         "data": "hwQIAAgAAAD/////X19V/1///w9fv/8P/79fD8+8X//wVf//8P//Dw==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "IconSkinBee"
-    },
-    "image38": {
-        "data": "hwQIAAgAAAAiiBj/EogY/xK4+AISvhICEr4SAsK8Hv8gERL/IBESAg==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "IconSkinUSAFlag"
     },
     "image39": {
         "data": "hwQIAAgAAACIIiL/mCIi/5i0+ASYtEgEmLVYBci8Vf+AmXj/gJl4Bw==",
@@ -388,6 +378,16 @@
         "data": "hwQIAAYAAAASGAIAERgBAIiICAARGAEAEhgCABIYAgASGAIAEhgCAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "FlagNO"
+    },
+    "image27": {
+        "data": "hwQSAA4AAAAgIoGNISEAACIiGIghIQAAEhGBjSEBAAASERiIIQAAABIRgY0hAAAAEhEYiCEBAAASEbIr8SEAABIRsivxIQAAEhGyKyEhAAAiEcIrISEAAMLMvCwhIQAAIMzMKyEBAAAAEhEhIgAAAAASESEiAAAAABIRISIBAAAAEhEiIiEBAAAgIiItIQEAANAiIt0hAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkinFlagUSA"
+    },
+    "image38": {
+        "data": "hwQIAAgAAAAiiBj/EogY/xK4+AISvhICEr4SAsK8Hv8gERL/IBESAg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "IconSkinFlagUSA"
     },
     "anim1": {
         "namespace": "myAnimations",
