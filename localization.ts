@@ -4,6 +4,8 @@ interface Language {
     // Language properties
     name: string;
     code: string;
+    flag: Image;
+    anim: Image[];
 
     /**
      * Strings that label a value

@@ -4,6 +4,8 @@ const languages: Language[] = [
     {
         name: "English (US)",
         code: "en-US",
+        flag: assets.image`FlagUS`,
+        anim: assets.animation`AnimatedFlagUS`,
 
         labels: {
             highscore: "Highscore",
@@ -40,6 +42,8 @@ const languages: Language[] = [
     {
         name: "Spanish",
         code: "es-ES",
+        flag: assets.image`FlagES`,
+        anim: assets.animation`AnimatedFlagES`,
 
         labels: {
             highscore: "Puntaje Récord",
@@ -76,6 +80,8 @@ const languages: Language[] = [
     {
         name: "Greek",
         code: "el",
+        flag: assets.image`FlagEL`,
+        anim: assets.animation`AnimatedFlagEL`,
 
         labels: {
             highscore: "Υψηλή βαθμολογία",
@@ -112,6 +118,8 @@ const languages: Language[] = [
     {
         name: "Croatian",
         code: "hr",
+        flag: assets.image`FlagHR`,
+        anim: assets.animation`AnimatedFlagHR`,
 
         labels: {
             highscore: "Najbolji rezultat",
@@ -148,6 +156,8 @@ const languages: Language[] = [
     {
         name: "Chinese (Simplified)",
         code: "zh-CN",
+        flag: assets.image`FlagCN`,
+        anim: assets.animation`AnimatedFlagCN`,
 
         labels: {
             highscore: "最高分",
