@@ -10,3 +10,5 @@ if (DEBUG) {
 if (!settings.exists("version")) {
     settings.writeString("version", VERSION);
 }
+
+let main = new Main({version: VERSION});

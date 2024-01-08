@@ -84,5 +84,5 @@ const skins: Skin[] = [
         icon: assets.image`IconSkinRainbow`,
         unlock: 2000,
         price: 5000
-    },
+    }
 ]

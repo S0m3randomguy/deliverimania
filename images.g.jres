@@ -4,16 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "FlagES"
     },
-    "image3": {
-        "data": "hwQIAAYAAACZkQkAmZEJAJmRCQCZlQkAmZUJAJmRCQCZkQkAmZEJAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "FlagAR"
-    },
-    "image4": {
-        "data": "hwQIAAYAAAB3dwcAd3cHABERAQDhFwEAQX4BABERAQAiIgIAIiICAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "FlagMEX"
-    },
     "image5": {
         "data": "hwQIAAYAAAAYiAEAEYEBABiIAQCBgQEAgYEBAIGBAQCBgQEAgYEBAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -409,20 +399,6 @@
         "mimeType": "application/mkcd-animation",
         "data": "NjQwMDA4MDAwNjAwMDcwMDIyMjIyMjIyNTU1NTU1NTUyNTVkNTU1NTU1NTU1NTU1MjIyMjIyMjIwMDAwMDAwMDIyMjIyMjIyNTU1NTU1NTUyNTVkNTU1NTU1NTU1NTU1MjIyMjIyMjIwMDAwMDAwMDAwMjIyMjIyMjI1NTU1NTU1NTVkNTU1NTI1NTU1NTU1NTUyMjIyMjIyMjAwMDAwMDAwMDAyMjIyMjIyMjU1NTU1NTU1NTU1NTI1NWQ1NTU1NTU1NTIyMjIyMjIyMDAwMDIyMDAwMDIyNTUyMjIyNTUyNTU1NTU1NTU1NWQ1NTU1MjI1NTU1MjIwMDIyMjIwMDIyMjIwMDAwNTU1NTIyMjIyNTVkNTU1NTU1NTU1NTU1MjIyMjU1NTUwMDAwMjIyMjIyMjIyMjAwNTU1NTU1MjIyNTVkNTU1NTU1NTU1NTU1MjIyMjIyNTUwMDAwMDAyMg==",
         "displayName": "AnimatedFlagES"
-    },
-    "anim3": {
-        "namespace": "myAnimations",
-        "id": "anim3",
-        "mimeType": "application/mkcd-animation",
-        "data": "NjQwMDA4MDAwNjAwMDcwMDk5OTk5OTk5OTk5OTk5OTkxMTUxMTUxMTk5OTk5OTk5OTk5OTk5OTkwMDAwMDAwMDk5OTk5OTk5OTk5OTk5OTkxMTUxMTUxMTk5OTk5OTk5OTk5OTk5OTkwMDAwMDAwMDAwOTk5OTk5OTk5OTk5OTk5OTUxMTUxMTExOTk5OTk5OTk5OTk5OTk5OTAwMDAwMDAwMDA5OTk5OTk5OTk5OTk5OTk5MTUxMTExNTE5OTk5OTk5OTk5OTk5OTk5MDAwMDk5MDAwMDk5OTk5OTk5OTkxMTk5OTkxMTk5NTExNTk5OTk5OTk5OTkwMDk5OTkwMDk5OTkwMDAwOTk5OTk5OTkxMTUxOTk5OTk5OTkxNTExOTk5OTk5OTkwMDAwOTk5OTk5OTk5OTAwOTk5OTk5OTkxMTUxMTU5OTk5OTk5OTExOTk5OTk5OTkwMDAwMDA5OQ==",
-        "displayName": "AnimatedFlagAR"
-    },
-    "anim4": {
-        "namespace": "myAnimations",
-        "id": "anim4",
-        "mimeType": "application/mkcd-animation",
-        "data": "NjQwMDA4MDAwNjAwMDcwMDc3MTExMTIyNzdlMTE0MjI3NzcxMWUyMjc3MTExNzIyNzcxMTExMjIwMDAwMDAwMDc3MTExMTIyNzdlMTE0MjI3NzcxMWUyMjc3MTExNzIyNzcxMTExMjIwMDAwMDAwMDAwMTExMTIyNzdlMTE0MjI3NzcxMWUyMjc3MTExNzIyNzcxMTExMjI3NzAwMDAwMDAwMDAxMTIyNzcxMTE0MjI3N2UxMWUyMjc3NzExNzIyNzcxMTExMjI3NzExMDAwMDc3MDAwMDIyNzcxMTExMjI3N2UxMTQyMjc3NzExZTIyNzcxMTE3MjIwMDExMTEwMDc3MTEwMDAwNzdlMTExMjI3NzcxMTQyMjc3MTExZTIyNzcxMTE3MjIwMDAwMTEyMjc3MTExMTAwNzdlMTE0MjI3NzcxMWUyMjc3MTExNzIyNzcxMTExMjIwMDAwMDAyMg==",
-        "displayName": "AnimatedFlagMEX"
     },
     "anim5": {
         "namespace": "myAnimations",
