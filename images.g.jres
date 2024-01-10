@@ -4,11 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "FlagES"
     },
-    "image5": {
-        "data": "hwQIAAYAAAAYiAEAEYEBABiIAQCBgQEAgYEBAIGBAQCBgQEAgYEBAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "FlagGR"
-    },
     "image6": {
         "data": "hwQIAAYAAAAigQgAIoEIAIKNCACS0ggAgi0IAJKCCAAigQgAIoEIAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -379,6 +374,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "IconSkinFlagUSA"
     },
+    "image5": {
+        "data": "hwQIAAYAAAAYiAEAEYEBABiIAQCBgQEAgYEBAIGBAQCBgQEAgYEBAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FlagEL"
+    },
+    "image4": {
+        "data": "hwQIAAgAAAAAwA8AALz8AMC7zA/Au8wPvMvP/LwM8PzMAAD/DAAA8A==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "IconFlagArrowLeft"
+    },
+    "image3": {
+        "data": "hwQIAAgAAAAMAADwzAAA/7wM8Py8y8/8wLvMD8C7zA8AvPwAAMAPAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "IconFlagArrowRight"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
@@ -399,13 +409,6 @@
         "mimeType": "application/mkcd-animation",
         "data": "NjQwMDA4MDAwNjAwMDcwMDIyMjIyMjIyNTU1NTU1NTUyNTVkNTU1NTU1NTU1NTU1MjIyMjIyMjIwMDAwMDAwMDIyMjIyMjIyNTU1NTU1NTUyNTVkNTU1NTU1NTU1NTU1MjIyMjIyMjIwMDAwMDAwMDAwMjIyMjIyMjI1NTU1NTU1NTVkNTU1NTI1NTU1NTU1NTUyMjIyMjIyMjAwMDAwMDAwMDAyMjIyMjIyMjU1NTU1NTU1NTU1NTI1NWQ1NTU1NTU1NTIyMjIyMjIyMDAwMDIyMDAwMDIyNTUyMjIyNTUyNTU1NTU1NTU1NWQ1NTU1MjI1NTU1MjIwMDIyMjIwMDIyMjIwMDAwNTU1NTIyMjIyNTVkNTU1NTU1NTU1NTU1MjIyMjU1NTUwMDAwMjIyMjIyMjIyMjAwNTU1NTU1MjIyNTVkNTU1NTU1NTU1NTU1MjIyMjIyNTUwMDAwMDAyMg==",
         "displayName": "AnimatedFlagES"
-    },
-    "anim5": {
-        "namespace": "myAnimations",
-        "id": "anim5",
-        "mimeType": "application/mkcd-animation",
-        "data": "NjQwMDA4MDAwNjAwMDcwMDE4MTgxMTExMTE4MTg4ODgxODE4MTExMTg4ODg4ODg4MTExMTExMTEwMDAwMDAwMDE4MTgxMTExMTE4MTg4ODgxODE4MTExMTg4ODg4ODg4MTExMTExMTEwMDAwMDAwMDAwMTgxMTExMTg4MTg4ODgxMTE4MTExMTE4ODg4ODg4ODgxMTExMTExMTAwMDAwMDAwMDAxMTExMTgxODg4ODgxMTgxMTExMTE4MTg4ODg4ODg4ODExMTExMTExMDAwMDE4MDAwMDExMTExODExODgxODgxODgxMTg4MTgxMTg4MTE4ODg4MTEwMDExMTEwMDE4MTgwMDAwMTE4MTExMTExODE4ODg4ODg4ODgxMTExMTExMTg4ODgwMDAwMTExMTE4MTgxMTAwMTE4MTg4MTExODE4MTE4ODg4ODg4ODExMTExMTExODgwMDAwMDAxMQ==",
-        "displayName": "AnimatedFlagGR"
     },
     "anim7": {
         "namespace": "myAnimations",
@@ -469,6 +472,13 @@
         "mimeType": "application/mkcd-animation",
         "data": "NjQwMDA4MDAwNjAwMDcwMDEyMTgyMjIyMTExODExMTE4ODg4ODg4ODExMTgxMTExMTIxODIyMjIwMDAwMDAwMDEyMTgyMjIyMTExODExMTE4ODg4ODg4ODExMTgxMTExMTIxODIyMjIwMDAwMDAwMDAwMTgyMjIyMTIxODExMTExMTg4ODg4ODg4MTgxMTExMTExODIyMjIxMjAwMDAwMDAwMDAyMjIyMTIxODExMTExMTE4ODg4ODg4ODgxMTExMTExODIyMjIxMjE4MDAwMDEyMDAwMDIyMTExODIyMTE4ODE4MTE4ODExODg4ODExMTIxODExMjIwMDE4MjIwMDEyMTgwMDAwMTExODIyMjI4ODg4MTExMTExMTg4ODg4MTIxODExMTEwMDAwMjIyMjEyMTgyMjAwMTExODExMjI4ODg4ODgxMTExMTgxMTg4MTIxODIyMTEwMDAwMDAyMg==",
         "displayName": "AnimatedFlagNO"
+    },
+    "anim5": {
+        "namespace": "myAnimations",
+        "id": "anim5",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDA4MDAwNjAwMDcwMDE4MTgxMTExMTE4MTg4ODgxODE4MTExMTg4ODg4ODg4MTExMTExMTEwMDAwMDAwMDE4MTgxMTExMTE4MTg4ODgxODE4MTExMTg4ODg4ODg4MTExMTExMTEwMDAwMDAwMDAwMTgxMTExMTg4MTg4ODgxMTE4MTExMTE4ODg4ODg4ODgxMTExMTExMTAwMDAwMDAwMDAxMTExMTgxODg4ODgxMTgxMTExMTE4MTg4ODg4ODg4ODExMTExMTExMDAwMDE4MDAwMDExMTExODExODgxODgxODgxMTg4MTgxMTg4MTE4ODg4MTEwMDExMTEwMDE4MTgwMDAwMTE4MTExMTExODE4ODg4ODg4ODgxMTExMTExMTg4ODgwMDAwMTExMTE4MTgxMTAwMTE4MTg4MTExODE4MTE4ODg4ODg4ODExMTExMTExODgwMDAwMDAxMQ==",
+        "displayName": "AnimatedFlagEL"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

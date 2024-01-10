@@ -11,4 +11,5 @@ if (!settings.exists("version")) {
     settings.writeString("version", VERSION);
 }
 
+color.setPalette(color.originalPalette);
 let main = new Main({version: VERSION});
