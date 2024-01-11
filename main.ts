@@ -12,4 +12,4 @@ if (!settings.exists("version")) {
 }
 
 color.setPalette(color.originalPalette);
-let main = new Main({version: VERSION});
+let main = new Main();

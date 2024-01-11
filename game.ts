@@ -1,60 +1,17 @@
 
-class GameState {
-    protected sprites: Sprite[];
-    protected active: boolean;
-
-    constructor(args?: object) {
-        this.sprites = [];
-        this.active = true;
-
-        this.entry(args);
-        game.onUpdate(() => {
-            if (this.active) this.update();
-        })
-    }
-
-    entry(args?: object): void {
-        // GameState entry point
-    }
-
-    protected update(): void {
-        // GameState update method
-    }
-
-    protected create(img?: Image, kind?: number): Sprite {
-        let sprite = sprites.create(img, kind)
-        return this.createFrom(sprite);
-    }
-
-    protected createFrom(sprite: Sprite): Sprite {
-        this.sprites.push(sprite);
-        return sprite;
-    }
-
-    protected createText(text: string, bg: number, fg: number): TextSprite {
-        let sprite = textsprite.create(text, bg, fg);
-        this.sprites.push(sprite);
-        return sprite;
-    }
-
-    close(): void {
-        this.sprites.map((value) => value.destroy());
-        this.active = false;
-    }
-}
 
 class Main extends GameState {
     intro: GameState;
 
-    entry(args: { version: string }): void {
-        this.intro = new Intro({ duration: 1500, fadeIn: 1000, fadeOut: 500 });
+    entry(args?: object): void {
+        this.intro = new Intro({duration: 1500, fadeIn: 1000, fadeOut: 500});
     }
 }   
 
 class Intro extends GameState {
     select: GameState;
 
-    entry(args: {duration: number, fadeIn: number, fadeOut: number}) {
+    entry(args?: {duration: number, fadeIn: number, fadeOut: number}) {
         let title = this.create(assets.image`IconSargeGames`, SpriteKind.Icon);
         scene.setBackgroundColor(Palette.Dark);
 

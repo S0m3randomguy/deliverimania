@@ -17,7 +17,8 @@
         "setup.ts",
         "skins.ts",
         "languages.ts",
-        "localization.ts"
+        "localization.ts",
+        "library.ts"
     ],
     "testFiles": [
         "test.ts"
